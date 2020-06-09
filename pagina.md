@@ -1,11 +1,6 @@
 
 ---
-permalink: /t3n
----
-
-# Página from StackEdit.io
-
-mais conteúdosub-conteudo
+permalink: /sub-conteudo
 
 ---
 
@@ -55,5 +50,5 @@ defuerunt, non iam per, mento vincet Ausoniae *litora*.
 Tendens ipsa, cum glaeba, testantia ignis flammis, eventu leoni. Ulla *tunc
 quoque* traherent patris virginitate, quam quoque Troiaeque, urbis.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MzQ4MjgwNF19
+eyJoaXN0b3J5IjpbMzQ0NTA3NDU3XX0=
 -->
