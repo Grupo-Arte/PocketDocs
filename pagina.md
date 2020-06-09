@@ -1,7 +1,6 @@
 
 ---
 permalink: /sub-conteudo
-
 ---
 
 
@@ -50,5 +49,5 @@ defuerunt, non iam per, mento vincet Ausoniae *litora*.
 Tendens ipsa, cum glaeba, testantia ignis flammis, eventu leoni. Ulla *tunc
 quoque* traherent patris virginitate, quam quoque Troiaeque, urbis.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ0NTA3NDU3XX0=
+eyJoaXN0b3J5IjpbLTI2ODc2NDMzXX0=
 -->
