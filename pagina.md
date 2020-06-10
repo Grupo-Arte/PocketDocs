@@ -47,6 +47,3 @@ defuerunt, non iam per, mento vincet Ausoniae *litora*.
 **Penetravit celat retemptat** parat habet in visa temptat adspexit desierant.
 Tendens ipsa, cum glaeba, testantia ignis flammis, eventu leoni. Ulla *tunc
 quoque* traherent patris virginitate, quam quoque Troiaeque, urbis.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NDM0OTAyMl19
--->
