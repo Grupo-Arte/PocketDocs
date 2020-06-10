@@ -8,8 +8,9 @@ vimeoId: 3084678
 
 ## Bemvindo, 1, 2, 3, testando
 
-### YouTube:  
+### YouTubes:  
 {% include youtubePlayer.html id=page.youtubeId %}
+{% include youtubePlayer.html id=page.nomeDoVideo %}
 
 ---
 ### Google Drive:  
@@ -20,6 +21,6 @@ vimeoId: 3084678
 {% include vimeoPlayer.html id=page.vimeoId %}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgxNzYyMTQ0LDYxNDYzNTY3NiwxNDMxMj
-k1MTAwLC0xNzczOTMzMDY4LDYxNjU5NzA0M119
+eyJoaXN0b3J5IjpbMTM0NzAzMTI1OCw2MTQ2MzU2NzYsMTQzMT
+I5NTEwMCwtMTc3MzkzMzA2OCw2MTY1OTcwNDNdfQ==
 -->
