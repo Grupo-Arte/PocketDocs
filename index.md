@@ -10,14 +10,17 @@ vimeoId: 3084678
 ### YouTube:  
 {% include youtubePlayer.html id=page.youtubeId %}
 
+---
 ### Google Drive:  
 {% include googleDrivePlayer.html id=page.driveId %}
 
+---
 ### Vimeo:  
 {% include vimeoPlayer.html id=page.vimeoId %}
 
 <script> window.intergramId = "837244102" </script>
 <script id="intergram" type="text/javascript" src="https://www.intergram.xyz/js/widget.js"></script>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzM5MzMwNjgsNjE2NTk3MDQzXX0=
+eyJoaXN0b3J5IjpbMTQzMTI5NTEwMCwtMTc3MzkzMzA2OCw2MT
+Y1OTcwNDNdfQ==
 -->
