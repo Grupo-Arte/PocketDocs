@@ -7,17 +7,17 @@ vimeoId: 3084678
 
 ## Bemvindo, 1, 2, 3, testando
 
-YouTube:  
+### YouTube:  
 {% include youtubePlayer.html id=page.youtubeId %}
 
-Google Drive:  
+### Google Drive:  
 {% include googleDrivePlayer.html id=page.driveId %}
 
-Vimeo:  
+### Vimeo:  
 {% include vimeoPlayer.html id=page.vimeoId %}
 
 <script> window.intergramId = "837244102" </script>
 <script id="intergram" type="text/javascript" src="https://www.intergram.xyz/js/widget.js"></script>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMjMwMTI5Nyw2MTY1OTcwNDNdfQ==
+eyJoaXN0b3J5IjpbLTE3NzM5MzMwNjgsNjE2NTk3MDQzXX0=
 -->
