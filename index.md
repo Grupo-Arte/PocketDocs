@@ -18,9 +18,7 @@ vimeoId: 3084678
 ### Vimeo:  
 {% include vimeoPlayer.html id=page.vimeoId %}
 
-<script> window.intergramId = "837244102" </script>
-<script id="intergram" type="text/javascript" src="https://www.intergram.xyz/js/widget.js"></script>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMTI5NTEwMCwtMTc3MzkzMzA2OCw2MT
-Y1OTcwNDNdfQ==
+eyJoaXN0b3J5IjpbNjE0NjM1Njc2LDE0MzEyOTUxMDAsLTE3Nz
+M5MzMwNjgsNjE2NTk3MDQzXX0=
 -->
